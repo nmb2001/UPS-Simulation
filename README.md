@@ -11,4 +11,8 @@ REQUIREMENTS: XAMPP, Python 3.0, mysql-connector-python
 
 4. Run either gui_main.py for a user interface or main.py. Both work the same. You are able to view the manifest of each plane and see all the cans onboard, where they're going and how much they weigh.
 
-BUGS: gui_main.py is a little janky, especially when you click on a can to view the manifest.
+BUGS: 
+
+gui_main.py is a little janky, especially when you click on a can to view the manifest.
+
+Sometimes planes won't load fully, sometimes they do. Just a logic issue I need to fix
